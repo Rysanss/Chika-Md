@@ -940,5 +940,5 @@ exports.thanksto = () => {
   *≻* Gc Hasidin
   *≻* Mamak Tersayang
   *≻* Ayah Tercinta
-
+`
 }
