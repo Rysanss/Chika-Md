@@ -139,8 +139,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}shinobu
   *≻* ${prefix}waifus 
   *≻* ${prefix}nekos 
-  *≻* ${prefix}trap 
-  *≻* ${prefix}blowjob 
   
   *TEXT PRO MENU*
   *≻* ${prefix}3dchristmas
@@ -592,8 +590,6 @@ exports.randomanimemenu = (prefix) => {
   *≻* ${prefix}shinobu
   *≻* ${prefix}waifus 
   *≻* ${prefix}nekos 
-  *≻* ${prefix}trap 
-  *≻* ${prefix}blowjob 
   `
 }
 
